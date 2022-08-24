@@ -12,26 +12,29 @@ Seconds | 🔬🧑🏻‍🔬 research  | 📚🧐 learning   | 🎮🧑‍💻 
 ### RESEA
 📂 [**name proj-1**](http://markdown-here.com) description of description &nbsp;
 📂 [**name proj-2**](http://markdown-here.com) description of description &nbsp;
-📂 [**name proj-3**](http://markdown-here.com) description of description &nbsp;
 </br>
 📂 [**name proj-1**](http://markdown-here.com) description of description &nbsp;
 📂 [**name proj-2**](http://markdown-here.com) description of description &nbsp;
-📂 [**name proj-3**](http://markdown-here.com) description of description &nbsp;
+</br>
+📂 [**name proj-1**](http://markdown-here.com) description of description &nbsp;
+📂 [**name proj-2**](http://markdown-here.com) description of description &nbsp;
 
 ### LEARN
 📂 [**name proj-1**](http://markdown-here.com) - description of description &nbsp;
 📂 [**name proj-2**](http://markdown-here.com) - description of description &nbsp;
-📂 [**name proj-3**](http://markdown-here.com) - description of description &nbsp;
 </br>
 📂 [**name proj-1**](http://markdown-here.com) - description of description &nbsp;
 📂 [**name proj-2**](http://markdown-here.com) - description of description &nbsp;
-📂 [**name proj-3**](http://markdown-here.com) - description of description &nbsp;
 </br>
 📂 [**name proj-1**](http://markdown-here.com) - description of description &nbsp;
 📂 [**name proj-2**](http://markdown-here.com) - description of description &nbsp;
-📂 [**name proj-3**](http://markdown-here.com) - description of description &nbsp;
+</br>
+📂 [**name proj-1**](http://markdown-here.com) - description of description &nbsp;
+📂 [**name proj-2**](http://markdown-here.com) - description of description &nbsp;
+</br>
+📂 [**name proj-1**](http://markdown-here.com) - description of description &nbsp;
+📂 [**name proj-2**](http://markdown-here.com) - description of description &nbsp;
 
 ### DEV
 📂 [**name proj-1**](http://markdown-here.com) - description of description &nbsp;
 📂 [**name proj-2**](http://markdown-here.com) - description of description &nbsp;
-📂 [**name proj-3**](http://markdown-here.com) - description of description &nbsp;
