@@ -6,34 +6,37 @@
 
 ### DOCUMENT
 
-Attempt | RESEA | LEARN | DEV | DOC | #5 | #6 | #7 | #8 | #9 | 
---- |--- |--- |--- |--- |--- |--- |--- |--- |--- 
-Seconds | 🔬🧑🏻‍🔬 research  | 📚🧐 learning   | 🎮🧑‍💻 develop | Document | ... | ... | ... | ... | ... | 
+initials | resea | learn | dev | doc | #5 | 
+---      |---    |---    |---  |---  |--- |
+full-name | 🔬🧑🏻‍🔬 research  | 📚🧐 learning   | 🎮🧑‍💻 develop | 📑🧐 Document | ... | 
 
 
 ### RESEA
-... |... |... |
---- |--- |--- |
-📂 [**Q1-resea-android**](https://github.com/gooba-lap/Q1-resea-android)   | 📂 [**Q1-resea-schema**](https://github.com/gooba-lap/Q1-resea-schema)  |  📂 [**Q1-resea-linebot**](https://github.com/gooba-lap/Q1-resea-linebot)  |
-📂 [**Q1-resea-aws**](https://github.com/gooba-lap/Q1-resea-aws)           | ... | ... | 
+- 📂 [**Q1-resea-android**](https://github.com/gooba-lap/Q1-resea-android) : Description
+- 📂 [**Q1-resea-schema**](https://github.com/gooba-lap/Q1-resea-schema) : Description  
+- 📂 [**Q1-resea-linebot**](https://github.com/gooba-lap/Q1-resea-linebot) : Description
+- 📂 [**Q1-resea-aws**](https://github.com/gooba-lap/Q1-resea-aws) : Description          
 
 
 ### DEV
-... |... |... |
---- |--- |--- |
-📂 [**Q1-dev-qraphql**](https://github.com/gooba-lap/Q1-dev-qraphql)  | 📂 [**Q1-dev-aws**](https://github.com/gooba-lap/Q1-dev-aws)  | ... |
+- 📂 [**Q1-dev-qraphql**](https://github.com/gooba-lap/Q1-dev-qraphql) : Description
+- 📂 [**Q1-dev-aws**](https://github.com/gooba-lap/Q1-dev-aws) : Description  
 
 
 ### LEARN
-... |... |... |
---- |--- |--- |
-📂 [**Q1-learn-typescript**](https://github.com/gooba-lap/Q1-learn-typescript)            | 📂 [**Q1-learn-redis**](https://github.com/gooba-lap/Q1-LEARN-Redis/settings)  | 📂 [**Q1-learn-express_handlebars**](https://github.com/gooba-lap/Q1-learn-express_handlebars)  |
-📂 [**Q1-learn-axios**](https://github.com/gooba-lap/Q1-learn-axios)                      | 📂 [**Q1-learn-jwt**](https://github.com/gooba-lap/Q1-learn-jwt)               | 📂 [**Q1-learn-tailwindcss**](https://github.com/gooba-lap/Q1-learn-tailwindcss)                | 
-📂 [**Q1-learn-jest**](https://github.com/gooba-lap/Q1-learn-jest)                        | 📂 [**Q1-learn-graphql**](https://github.com/gooba-lap/Q1-learn-graphql)       | 📂 [**Q1-learn-lambda_dynamodb**](https://github.com/gooba-lap/Q1-learn-lambda_dynamodb)        | 
-📂 [**Q2-learn-lambda_dynamodb**](https://github.com/gooba-lap/Q2-learn-lambda_dynamodb)  | ... | ... |
+- 📂 [**Q1-learn-typescript**](https://github.com/gooba-lap/Q1-learn-typescript) : Description            
+- 📂 [**Q1-learn-redis**](https://github.com/gooba-lap/Q1-LEARN-Redis/settings) : Description
+- 📂 [**Q1-learn-express_handlebars**](https://github.com/gooba-lap/Q1-learn-express_handlebars) : Description  
+- 📂 [**Q1-learn-axios**](https://github.com/gooba-lap/Q1-learn-axios) : Description                      
+- 📂 [**Q1-learn-jwt**](https://github.com/gooba-lap/Q1-learn-jwt) : Description               
+- 📂 [**Q1-learn-tailwindcss**](https://github.com/gooba-lap/Q1-learn-tailwindcss) : Description              
+- 📂 [**Q1-learn-jest**](https://github.com/gooba-lap/Q1-learn-jest) : Description                        
+- 📂 [**Q1-learn-graphql**](https://github.com/gooba-lap/Q1-learn-graphql) : Description       
+- 📂 [**Q1-learn-lambda_dynamodb**](https://github.com/gooba-lap/Q1-learn-lambda_dynamodb) : Description        
+- 📂 [**Q2-learn-lambda_dynamodb**](https://github.com/gooba-lap/Q2-learn-lambda_dynamodb) : Description  
 
 
 ### DOC
-... |... |... |
---- |--- |--- |
-📂 [**doc-git**](https://github.com/gooba-lap/doc-git)  | 📂 [**doc-flutter**](https://github.com/gooba-lap/doc-flutter)  | 📂 [**doc-graphql**](https://github.com/gooba-lap/doc-graphql)  | 
+- 📂 [**doc-git**](https://github.com/gooba-lap/doc-git) : Description  
+- 📂 [**doc-flutter**](https://github.com/gooba-lap/doc-flutter) : Description  
+- 📂 [**doc-graphql**](https://github.com/gooba-lap/doc-graphql) : Description 
