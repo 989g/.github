@@ -5,32 +5,32 @@
 
 🧐 ??
 
-### RESEA - Research
-- 📂 [**resea_android**](https://github.com/gooba-lap/a-resea-android) : Description
-- 📂 [**resea_schema**](https://github.com/gooba-lap/a-resea-schema) : Description  
-- 📂 [**resea_linebot**](https://github.com/gooba-lap/a-resea-linebot) : Description
-- 📂 [**resea_aws**](https://github.com/gooba-lap/a-resea-aws) : Description          
+### RESEA - research
+- 📂 [**resea_android**](https://github.com/gooba-lap/a-resea-android) . . . . . description
+- 📂 [**resea_schema**](https://github.com/gooba-lap/a-resea-schema) . . . . . description
+- 📂 [**resea_linebot**](https://github.com/gooba-lap/a-resea-linebot) . . . . . description
+- 📂 [**resea_aws**](https://github.com/gooba-lap/a-resea-aws) . . . . . description
 
 
-### DEV - Development
-- 📂 [**dev_qraphql**](https://github.com/gooba-lap/a-dev-qraphql) : Description
-- 📂 [**dev_aws**](https://github.com/gooba-lap/a-dev-aws) : Description  
+### DEV - development
+- 📂 [**dev_qraphql**](https://github.com/gooba-lap/a-dev-qraphql) . . . . . descriptionl
+- 📂 [**dev_aws**](https://github.com/gooba-lap/a-dev-aws) . . . . . description 
 
 
-### LEARN - Learning
-- 📂 [**earn_typescript**](https://github.com/gooba-lap/a-learn-typescript) : Description            
-- 📂 [**earn_redis**](https://github.com/gooba-lap/a-learn-Redis/settings) : Description
-- 📂 [**earn_express_handlebars**](https://github.com/gooba-lap/a-learn-express_handlebars) : Description  
-- 📂 [**earn_axios**](https://github.com/gooba-lap/a-learn-axios) : Description                      
-- 📂 [**earn_jwt**](https://github.com/gooba-lap/a-learn-jwt) : Description               
-- 📂 [**earn_tailwindcss**](https://github.com/gooba-lap/a-learn-tailwindcss) : Description              
-- 📂 [**earn_jest**](https://github.com/gooba-lap/a-learn-jest) : Description                        
-- 📂 [**earn_graphql**](https://github.com/gooba-lap/a-learn-graphql) : Description       
-- 📂 [**earn1_lambda_dynamodb**](https://github.com/gooba-lap/a-learn-lambda_dynamodb) : Description        
-- 📂 [**earn2_lambda_dynamodb**](https://github.com/gooba-lap/b-learn-lambda_dynamodb) : Description  
+### LEARN - learning
+- 📂 [**earn_typescript**](https://github.com/gooba-lap/a-learn-typescript) . . . . . description            
+- 📂 [**earn_redis**](https://github.com/gooba-lap/a-learn-Redis/settings) . . . . . description
+- 📂 [**earn_express_handlebars**](https://github.com/gooba-lap/a-learn-express_handlebars) . . . . . description  
+- 📂 [**earn_axios**](https://github.com/gooba-lap/a-learn-axios) . . . . . description                      
+- 📂 [**earn_jwt**](https://github.com/gooba-lap/a-learn-jwt) . . . . . description               
+- 📂 [**earn_tailwindcss**](https://github.com/gooba-lap/a-learn-tailwindcss) . . . . . description              
+- 📂 [**earn_jest**](https://github.com/gooba-lap/a-learn-jest) . . . . . description                        
+- 📂 [**earn_graphql**](https://github.com/gooba-lap/a-learn-graphql) . . . . . description       
+- 📂 [**earn1_lambda_dynamodb**](https://github.com/gooba-lap/a-learn-lambda_dynamodb) . . . . . description        
+- 📂 [**earn2_lambda_dynamodb**](https://github.com/gooba-lap/b-learn-lambda_dynamodb) . . . . . description  
 
 
-### DOC - Document
-- 📂 [**doc_git**](https://github.com/gooba-lap/doc-git) : Description  
-- 📂 [**doc_flutter**](https://github.com/gooba-lap/doc-flutter) : Description  
-- 📂 [**doc_graphql**](https://github.com/gooba-lap/doc-graphql) : Description 
+### DOC - document
+- 📂 [**doc_git**](https://github.com/gooba-lap/doc-git) . . . . . description  
+- 📂 [**doc_flutter**](https://github.com/gooba-lap/doc-flutter) . . . . . description  
+- 📂 [**doc_graphql**](https://github.com/gooba-lap/doc-graphql) . . . . . description 
