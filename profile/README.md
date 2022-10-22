@@ -26,8 +26,8 @@
 - 📂 [**earn_tailwindcss**](https://github.com/gooba-lap/a-learn-tailwindcss) : Description              
 - 📂 [**earn_jest**](https://github.com/gooba-lap/a-learn-jest) : Description                        
 - 📂 [**earn_graphql**](https://github.com/gooba-lap/a-learn-graphql) : Description       
-- 📂 [**earn_lambda_dynamodb**](https://github.com/gooba-lap/a-learn-lambda_dynamodb) : Description        
-- 📂 [**earn_lambda_dynamodb**](https://github.com/gooba-lap/b-learn-lambda_dynamodb) : Description  
+- 📂 [**earn1_lambda_dynamodb**](https://github.com/gooba-lap/a-learn-lambda_dynamodb) : Description        
+- 📂 [**earn2_lambda_dynamodb**](https://github.com/gooba-lap/b-learn-lambda_dynamodb) : Description  
 
 
 ### DOC - Document
