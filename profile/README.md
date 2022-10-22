@@ -3,27 +3,21 @@
 
 <!-- https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github -->
 
+🧐 ??
 
-### DOCUMENT
-
-initials | resea | learn | dev | doc | #5 | 
----      |---    |---    |---  |---  |--- |
-full-name | 🔬🧑🏻‍🔬 research  | 📚🧐 learning   | 🎮🧑‍💻 develop | 📑🧐 Document | ... | 
-
-
-### RESEA
+### RESEA - Research
 - 📂 [**resea_android**](https://github.com/gooba-lap/a-resea-android) : Description
 - 📂 [**resea_schema**](https://github.com/gooba-lap/a-resea-schema) : Description  
 - 📂 [**resea_linebot**](https://github.com/gooba-lap/a-resea-linebot) : Description
 - 📂 [**resea_aws**](https://github.com/gooba-lap/a-resea-aws) : Description          
 
 
-### DEV
+### DEV - Development
 - 📂 [**dev_qraphql**](https://github.com/gooba-lap/a-dev-qraphql) : Description
 - 📂 [**dev_aws**](https://github.com/gooba-lap/a-dev-aws) : Description  
 
 
-### LEARN
+### LEARN - Learning
 - 📂 [**earn_typescript**](https://github.com/gooba-lap/a-learn-typescript) : Description            
 - 📂 [**earn_redis**](https://github.com/gooba-lap/a-learn-Redis/settings) : Description
 - 📂 [**earn_express_handlebars**](https://github.com/gooba-lap/a-learn-express_handlebars) : Description  
@@ -36,7 +30,7 @@ full-name | 🔬🧑🏻‍🔬 research  | 📚🧐 learning   | 🎮🧑‍�
 - 📂 [**earn_lambda_dynamodb**](https://github.com/gooba-lap/b-learn-lambda_dynamodb) : Description  
 
 
-### DOC
+### DOC - Document
 - 📂 [**doc_git**](https://github.com/gooba-lap/doc-git) : Description  
 - 📂 [**doc_flutter**](https://github.com/gooba-lap/doc-flutter) : Description  
 - 📂 [**doc_graphql**](https://github.com/gooba-lap/doc-graphql) : Description 
