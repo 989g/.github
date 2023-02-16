@@ -6,31 +6,35 @@
 ### 目录 
 
 ### RESEA - research
-- [**resea_android**](https://github.com/gooba-lap/a-resea-android)
-- [**resea_schema**](https://github.com/gooba-lap/a-resea-schema) 
-- [**resea_linebot**](https://github.com/gooba-lap/a-resea-linebot) 
-- [**resea_aws**](https://github.com/gooba-lap/a-resea-aws)
+- [**resea-android**](https://github.com/gooba-lap/a-resea-android)
+- [**resea-linebot**](https://github.com/gooba-lap/a-resea-linebot)
+- [**resea-schema**](https://github.com/gooba-lap/a-resea-schema) 
+- 🥀 低重要性 (low importance)
+- [**resea-aws**](https://github.com/gooba-lap/a-resea-aws)
 
 
 ### DEV - development
-- [**dev_qraphql**](https://github.com/gooba-lap/a-dev-qraphql) 
-- [**dev_aws**](https://github.com/gooba-lap/a-dev-aws)  
+- [**dev-qraphql**](https://github.com/gooba-lap/a-dev-qraphql) 
+- [**dev-aws**](https://github.com/gooba-lap/a-dev-aws)  
+- [**dev-dynamodb-local**](https://github.com/gooba-lap/dev-dynamodb-local) , Private
 
 
 ### LEARN - learning
-- [**earn_typescript**](https://github.com/gooba-lap/a-learn-typescript)           
-- [**earn_redis**](https://github.com/gooba-lap/a-learn-Redis/settings) 
-- [**earn_express_handlebars**](https://github.com/gooba-lap/a-learn-express_handlebars)  
-- [**earn_axios**](https://github.com/gooba-lap/a-learn-axios)                     
-- [**earn_jwt**](https://github.com/gooba-lap/a-learn-jwt)        
-- [**earn_tailwindcss**](https://github.com/gooba-lap/a-learn-tailwindcss)     
-- [**earn_jest**](https://github.com/gooba-lap/a-learn-jest)              
-- [**earn_graphql**](https://github.com/gooba-lap/a-learn-graphql) 
-- [**earn1_lambda_dynamodb**](https://github.com/gooba-lap/a-learn-lambda_dynamodb)   
-- [**earn2_lambda_dynamodb**](https://github.com/gooba-lap/b-learn-lambda_dynamodb) 
-- [**earn_nest**](https://github.com/gubalabs/earn_nest)  
+- [**earn-nest**](https://github.com/gubalabs/earn_nest)  
+- [**earn-graphql**](https://github.com/gooba-lap/a-learn-graphql)
+- [**earn-typescript**](https://github.com/gooba-lap/a-learn-typescript)            
+- [**earn-axios**](https://github.com/gooba-lap/a-learn-axios)                             
+- [**earn-jest**](https://github.com/gooba-lap/a-learn-jest)               
+- [**earn1-lambda-dynamodb**](https://github.com/gooba-lap/a-learn-lambda_dynamodb)   
+- [**earn2-lambda-dynamodb**](https://github.com/gooba-lap/b-learn-lambda_dynamodb) 
+- 🥀 低重要性 (low importance)
+- [**earn-tailwindcss**](https://github.com/gooba-lap/a-learn-tailwindcss)
+- [**earn-jwt**](https://github.com/gooba-lap/a-learn-jwt) 
+- [**earn-express-handlebars**](https://github.com/gooba-lap/a-learn-express_handlebars) 
+- [**earn-redis**](https://github.com/gooba-lap/a-learn-Redis/settings) 
+
 
 ### DOC - document
-- [**doc_git**](https://github.com/gooba-lap/doc-git) 
-- [**doc_flutter**](https://github.com/gooba-lap/doc-flutter)  
-- [**doc_graphql**](https://github.com/gooba-lap/doc-graphql)   
+- [**doc-git**](https://github.com/gooba-lap/doc-git) 
+- [**doc-flutter**](https://github.com/gooba-lap/doc-flutter)  
+- [**doc-graphql**](https://github.com/gooba-lap/doc-graphql)   
