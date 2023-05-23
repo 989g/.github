@@ -14,7 +14,8 @@
 
 
 ### DEV - development
-- [**nest-api**](https://github.com/989Q/nest-api) , Private , Important 
+- [**express-api**](https://github.com/989Q/express-api) , Private , Important  
+- [**nest-api**](https://github.com/989Q/nest-api) , Private
 - [**dev-aws**](https://github.com/989Q/dev-aws) 
 - [**dev-dynamodb-local**](https://github.com/989Q/dev-dynamodb-local) , Private
 
@@ -24,14 +25,13 @@
 - [**earn-graphql**](https://github.com/989Q/earn-graphql)
 - [**earn-typescript**](https://github.com/989Q/earn-typescript)                                        
 - [**earn-jest**](https://github.com/989Q/earn-jest)               
-- [**earn1-lambda-dynamodb**](https://github.com/989Q/earn-lambda_dynamodb)   
-- [**earn2-lambda-dynamodb**](https://github.com/989Q/earn-lambda_dynamodb) 
+- [**earn1-lambda-dynamodb**](https://github.com/989Q/earn-lambd-dynamodb)   
+- [**earn2-lambda-dynamodb**](https://github.com/989Q/earn-lambda-dynamodb) 
 - 🥀 低重要性 (low importance)
-- [**earn-axios**](https://github.com/989Q/earn-axios) 
 - [**earn-tailwindcss**](https://github.com/989Q/earn-tailwindcss)
 - [**earn-jwt**](https://github.com/989Q/earn-jwt) 
 - [**earn-express-handlebars**](https://github.com/989Q/earn-express-handlebars) 
-- [**earn-redis**](https://github.com/989Q/earn-Redis/settings) 
+- [**earn-redis**](https://github.com/989Q/earn-Redis) 
 
 
 ### DOC - document
