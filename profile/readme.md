@@ -32,12 +32,12 @@ Welcome to the documentation hub for various projects! Below is a structured tab
 - [**resea-aws**](https://github.com/989Q/resea-aws)
 
 ### Development
+- [**dev-dynamodb-local**](https://github.com/989Q/dev-dynamodb-local) - private
 - [**nest-api**](https://github.com/989Q/nest-api) - private
 - [**dev-aws**](https://github.com/989Q/dev-aws) 
-- [**dev-dynamodb-local**](https://github.com/989Q/dev-dynamodb-local) - private
 
 ### Learning
+- [**earn-lambda-dynamodb-1**](https://github.com/989Q/earn-lambd-dynamodb-1) - private    
+- [**earn-lambda-dynamodb-2**](https://github.com/989Q/earn-lambda-dynamodb-2) - private
 - [**earn-nest**](https://github.com/989Q/earn_nest)                                               
-- [**earn-lambda-dynamodb-1**](https://github.com/989Q/earn-lambd-dynamodb-1)   
-- [**earn-lambda-dynamodb-2**](https://github.com/989Q/earn-lambda-dynamodb-2)
 - [**earn-tailwindcss**](https://github.com/989Q/earn-tailwindcss)
