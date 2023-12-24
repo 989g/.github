@@ -10,36 +10,34 @@ CONCEPT
 Welcome to the documentation hub for various projects! Below is a structured table of contents to help you navigate and explore the documentation for different areas.
 
 ### Document Repository
-[Link to Repository](https://github.com/989Q/docs)
-
+[Docs Repository](https://github.com/989Q/docs)
 - [Flutter Documentation](https://github.com/989Q/docs/flutter)
+  - Discover everything about Flutter development.
 - [Git Documentation](https://github.com/989Q/docs/git)
+  - Learn best practices and advanced Git techniques.
 - [GraphQL Documentation](https://github.com/989Q/graphql)
+  - Explore the power of GraphQL and its implementation.
 
-### RESEA - research
+### Serious Development
+[Dododev Repository](https://github.com/989Q/dododev)
+- [Node fastify mongo](https://github.com/989Q/dododev/fastify-mongo)
+  - Fast-track your Node.js development with MongoDB using Fastify.
+- [Node express sequelize maria](https://github.com/989Q/dododev/sequelize-maria)
+  - Dive into Node.js and MariaDB development using Express and Sequelize.
+
+### Research
 - [**resea-android**](https://github.com/989Q/resea-android)
 - [**resea-linebot**](https://github.com/989Q/resea-linebot)
-- [**resea-schema**](https://github.com/989Q/resea-schema) 
-- 🥀 低重要性 (low importance)
+- [**resea-schema**](https://github.com/989Q/resea-schema)
 - [**resea-aws**](https://github.com/989Q/resea-aws)
 
-
-### DEV - development
-- [**express-api**](https://github.com/989Q/express-api) , Private , Important  
-- [**nest-api**](https://github.com/989Q/nest-api) , Private
+### Development
+- [**nest-api**](https://github.com/989Q/nest-api) - private
 - [**dev-aws**](https://github.com/989Q/dev-aws) 
-- [**dev-dynamodb-local**](https://github.com/989Q/dev-dynamodb-local) , Private
+- [**dev-dynamodb-local**](https://github.com/989Q/dev-dynamodb-local) - private
 
-
-### LEARN - learning
-- [**earn-nest**](https://github.com/989Q/earn_nest)  
-- [**earn-graphql**](https://github.com/989Q/earn-graphql)
-- [**earn-typescript**](https://github.com/989Q/earn-typescript)                                        
-- [**earn-jest**](https://github.com/989Q/earn-jest)               
-- [**earn1-lambda-dynamodb**](https://github.com/989Q/earn-lambd-dynamodb)   
-- [**earn2-lambda-dynamodb**](https://github.com/989Q/earn-lambda-dynamodb) 
-- 🥀 低重要性 (low importance)
+### Learning
+- [**earn-nest**](https://github.com/989Q/earn_nest)                                               
+- [**earn-lambda-dynamodb-1**](https://github.com/989Q/earn-lambd-dynamodb-1)   
+- [**earn-lambda-dynamodb-2**](https://github.com/989Q/earn-lambda-dynamodb-2)
 - [**earn-tailwindcss**](https://github.com/989Q/earn-tailwindcss)
-- [**earn-jwt**](https://github.com/989Q/earn-jwt) 
-- [**earn-express-handlebars**](https://github.com/989Q/earn-express-handlebars) 
-- [**earn-redis**](https://github.com/989Q/earn-Redis) 
