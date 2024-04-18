@@ -38,8 +38,7 @@ Welcome to the documentation hub for various projects! Below is a structured tab
 ### Research
 - [**resea-android**](https://github.com/989g/resea-android)
 - [**resea-linebot**](https://github.com/989g/resea-linebot)
-- [**resea-aws**](https://github.com/989g/resea-aws)
 
 ### Development
 - [**nest-api**](https://github.com/989g/nest-api) - private
-- [**dev-serverless**](https://github.com/989g/dev-aws) 
+- [**dev-serverless**](https://github.com/989g/dev-serverless) 
