@@ -21,13 +21,19 @@ Welcome to the documentation hub for various projects! Below is a structured tab
   - Explore the power of GraphQL and its implementation.
 
 ### Serious Development
-[Dododev Repository](https://github.com/989g/dododev)
-- [Go fiber mongoDB](https://github.com/989g/dododev/tree/fiber-mongo)
+[Dododev Backend Repository](https://github.com/989g/dododev)
+- [Go fiber mongoDB](https://github.com/989g/dododev-backend/tree/fiber-mongo)
   - Foundation for building scalable applications using the Fiber web framework in Golang with MongoDB integration.
-- [Node fastify mongoDB](https://github.com/989g/dododev/tree/fastify-mongo)
+- [Node fastify mongoDB](https://github.com/989g/dododev-backend/tree/fastify-mongo)
   - Fast-track your Node.js development with MongoDB using Fastify.
-- [Node express sequelize mariaDB](https://github.com/989g/dododev/tree/sequelize-maria)
+- [Node express sequelize mariaDB](https://github.com/989g/dododev-backend/tree/sequelize-maria)
   - Dive into Node.js and MariaDB development using Express and Sequelize.
+
+[Dododev Frontend Repository](https://github.com/989g/dododev)
+- [React azure](https://github.com/989g/dododev/tree/react-azure)
+  - This branch likely involves building the frontend with React and integrating it with Azure services.
+- [React tailwindcss](https://github.com/989g/dododev/tree/react-tailwind)
+  - Using React with the Tailwind CSS framework for styling.
 
 ### Research
 - [**resea-android**](https://github.com/989g/resea-android)
@@ -36,6 +42,5 @@ Welcome to the documentation hub for various projects! Below is a structured tab
 - [**resea-aws**](https://github.com/989g/resea-aws)
 
 ### Development
-- [**dev-dynamodb-local**](https://github.com/989g/dev-dynamodb-local) - private
 - [**nest-api**](https://github.com/989g/nest-api) - private
 - [**dev-aws**](https://github.com/989g/dev-aws) 
