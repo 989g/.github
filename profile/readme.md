@@ -36,9 +36,8 @@ Welcome to the documentation hub for various projects! Below is a structured tab
   - Using React with the Tailwind CSS framework for styling.
 
 ### Research
-- [**resea-android**](https://github.com/989g/resea-android)
-- [**resea-linebot**](https://github.com/989g/resea-linebot)
+- [**Collection about android**](https://github.com/989g/android)
+- [**Collection about linebot**](https://github.com/989g/linebot)
 
 ### Development
-- [**nest-api**](https://github.com/989g/nest-api) - private
-- [**dev-serverless**](https://github.com/989g/dev-serverless) 
+- [**Serverless**](https://github.com/989g/serverless) 
